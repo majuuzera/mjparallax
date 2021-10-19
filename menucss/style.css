@@ -1,0 +1,15 @@
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #000;
+}
+
+#menu,
+#div4,
+#div5,
+#div6,
+#div1,
+#div2,
+#div3 {
+    display: none;
+}
