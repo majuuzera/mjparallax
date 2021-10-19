@@ -1,5 +1,6 @@
 body, html{
-    height: 100%;
+    max-width: 100%;
+    height: auto;
 }
 
 /* Configura os elementos .parallax */
@@ -31,3 +32,4 @@ body, html{
 .div6 {
     background-image: url('../img/m6.jpg');
 }
+
