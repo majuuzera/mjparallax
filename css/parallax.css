@@ -1,6 +1,5 @@
 body, html{
-    max-width: 100%;
-    height: auto;
+    height: 100%;
 }
 
 /* Configura os elementos .parallax */
